@@ -1,3 +1,3 @@
 l_result = 1 + 2
 
-print(l_result)
+print('Olá mundo! O resultado da soma foi {}'.format(str(l_result)))
